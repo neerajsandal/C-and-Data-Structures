@@ -51,6 +51,7 @@ int main()
 }
 
 /*
+Sample Input : 
 2
 8    // size of an array
 1 0 1 1 0 1 0 1
